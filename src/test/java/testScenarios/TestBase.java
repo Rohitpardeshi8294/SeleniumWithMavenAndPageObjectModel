@@ -17,6 +17,7 @@ public class TestBase {
 		
 		driver.get("https://www.techlistic.com/p/selenium-practice-form.html");
 		driver.manage().window().maximize();
+		//Git Test
 	}
 	
 	@AfterSuite
